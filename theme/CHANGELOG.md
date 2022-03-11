@@ -1,5 +1,11 @@
 # @primer/gatsby-theme-doctocat
 
+## 3.3.0
+
+### Minor Changes
+
+- [`82bd051`](https://github.com/primer/doctocat/commit/82bd051ab35e5939a9ad5a3e89c26e2a63ce5df2) [#376](https://github.com/primer/doctocat/pull/376) Thanks [@vdepizzol](https://github.com/vdepizzol)! - New visual styles for Do/Dont components
+
 ## 3.2.1
 
 ### Patch Changes
